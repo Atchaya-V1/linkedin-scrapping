@@ -81,6 +81,6 @@ Geographical Distribution
 Bar Charts and Pie Charts.
 Trend Analysis
 ## Notes
-- LinkedIn Terms of Service: Please be aware that LinkedIn has strict rules against scraping, and this script should be used with caution. Always review LinkedIn's terms of service to ensure compliance.
-- LinkedIn Login: Avoid using this script for bulk or frequent scraping, as LinkedIn may block your account for suspicious activities.
+- LinkedIn Terms of Service: Always review LinkedIn's terms of service to ensure compliance.
+- LinkedIn Login: Avoid using this script for bulk or frequent scraping.
 - Captcha and 2FA: If LinkedIn detects automated login, you might be prompted to solve a CAPTCHA or enter a verification code.
