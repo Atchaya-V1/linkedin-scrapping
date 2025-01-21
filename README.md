@@ -1,21 +1,21 @@
-#LinkedIn Profile Scraper for IIT Graduates
+# LinkedIn Profile Scraper for IIT Graduates
 This project automates the process of logging into LinkedIn, searching for profiles of IIT graduates, scraping their information (name, job title, and company/industry), and saving the extracted data into a CSV file.
 
-##Prerequisites
+## Prerequisites
 To run this script, you will need the following:
 
--Python 3.x
--Google Chrome
--ChromeDriver
--Selenium library
--Installation
-**Install Python 3.x: Download and install Python 3.x from the official Python website: https://www.python.org/downloads/
+- Python 3.x
+- Google Chrome
+- ChromeDriver
+- Selenium library
+- Installation
+** Install Python 3.x: Download and install Python 3.x from the official Python website: https://www.python.org/downloads/
 
 Install Required Libraries: You need to install the following Python libraries:
 
 Selenium
 CSV (This is a built-in library, so you don’t need to install it manually)
-##To install Selenium, run:
+##T o install Selenium, run:
 
 -bash
 -Copy
